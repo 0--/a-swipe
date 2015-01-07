@@ -1,0 +1,11 @@
+.swipe {
+	position: relative;
+	display: block;
+	height: 100%;
+
+	.swipe-layer {
+		height: 100%;
+		width: auto;
+		position: absolute;
+	}
+}

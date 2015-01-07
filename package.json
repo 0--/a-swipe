@@ -1,0 +1,22 @@
+{
+  "name": "swipe",
+  "version": "1.0.0",
+  "description": "Frontend for Anna's swipe project",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-compass": "^2.0.3",
+    "gulp-concat": "^2.4.3",
+    "gulp-connect": "^2.2.0",
+    "gulp-debug": "^1.0.1",
+    "gulp-jshint": "^1.9.0",
+    "gulp-uglify": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k0",
+  "license": "ISC"
+}

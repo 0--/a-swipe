@@ -1,0 +1,12 @@
+/* line 1, ../sass/swipe.scss */
+.swipe {
+  position: relative;
+  display: block;
+  height: 100%;
+}
+/* line 6, ../sass/swipe.scss */
+.swipe .swipe-layer {
+  height: 100%;
+  width: auto;
+  position: absolute;
+}

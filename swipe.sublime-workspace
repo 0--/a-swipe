@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"globS",
+				"globScaffold"
+			],
+			[
+				"globSc",
+				"globScripts"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"hex",
+				"hexIV"
+			],
+			[
+				"out",
+				"outDir"
+			],
+			[
+				"key",
+				"keyFile"
+			],
+			[
+				"ke",
+				"keyFile"
+			],
+			[
+				"encr",
+				"encrypted"
+			],
+			[
+				"ex",
+				"extIndex"
+			],
+			[
+				"files",
+				"files"
+			],
+			[
+				"file",
+				"fileSequence0"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "require 'compass/import-once/activate'\n# Require any additional compass plugins here.\n\n# Set this to the root of your project when deployed:\nhttp_path = \"/\"\ncss_dir = \"styles/css\"\nsass_dir = \"styles/sass\"\nimages_dir = \"images\"\njavascripts_dir = \"javascripts\"\n\n# You can select your preferred output style here (can be overridden via the command line):\n# output_style = :expanded or :nested or :compact or :compressed\n\n# To enable relative paths to assets via compass helper functions. Uncomment:\n# relative_assets = true\n\n# To disable debugging comments that display the original location of your selectors. Uncomment:\n# line_comments = false\n\n\n# If you prefer the indented syntax, you might want to regenerate this\n# project again passing --syntax sass, or you can uncomment this:\n# preferred_syntax = :sass\n# and then run:\n# sass-convert -R --from scss --to sass sass scss && rm -rf sass && mv scss sass\n",
+			"file": "config.rb",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scripts/foo.js",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scripts/Swipe.js",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scaffold/index.html",
+			"settings":
+			{
+				"buffer_size": 2225,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".swipe {\n	position: relative;\n	display: block;\n	height: 100%;\n\n	.swipe-layer {\n		height: 100%;\n		width: auto;\n		position: absolute;\n	}\n}",
+			"file": "src/styles/swipe.scss",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@include compass/reset;\n\nhtml,\nbody {\n	height: 100%;\n	box-sizing: border-box;\n}\n\nbody {\n	padding: 3%;\n}",
+			"file": "src/styles/main.scss",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"package control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/k0/Dev/node/anna/swipe",
+		"/Users/k0/Dev/node/anna/swipe/build/css",
+		"/Users/k0/Dev/node/anna/swipe/build/img",
+		"/Users/k0/Dev/node/anna/swipe/build/js",
+		"/Users/k0/Dev/node/anna/swipe/src",
+		"/Users/k0/Dev/node/anna/swipe/src/scaffold",
+		"/Users/k0/Dev/node/anna/swipe/src/scripts",
+		"/Users/k0/Dev/node/anna/swipe/src/styles",
+		"/Users/k0/Dev/node/anna/swipe/src/styles/sass"
+	],
+	"file_history":
+	[
+		"/Users/k0/Dev/node/anna/swipe/src/styles/sass/screen.scss",
+		"/Users/k0/Dev/node/anna/swipe/src/styles/sass/main.scss",
+		"/Users/k0/Dev/node/anna/swipe/package.json",
+		"/Users/k0/Dev/node/anna/swipe/src/styles/swipe.scss",
+		"/Users/k0/Dev/node/anna/swipe/node_modules/gulp-concat/node_modules/concat-with-sourcemaps/node_modules/source-map/build/assert-shim.js",
+		"/Users/k0/Dev/node/anna/swipe/node_modules/gulp/node_modules/chalk/node_modules/.bin/strip-ansi",
+		"/Users/k0/Dev/node/anna/swipe/swipe.sublime-project",
+		"/Users/k0/Dev/node/anna/swipe/src/scripts/swipe.js",
+		"/Users/k0/Dev/node/anna/swipe/src/scripts/foo.js",
+		"/Users/k0/Dev/node/anna/swipe/gulp.js",
+		"/Users/k0/Dev/node/anna/swipe/src/scripts/js/swipe.js",
+		"/Users/k0/Documents/hls streaming tests/encryption/ts/2464368-hls/multi-encrypt.sh",
+		"/Users/k0/Documents/hls streaming tests/encryption/test3/multi-encrypt.sh",
+		"/Users/k0/Documents/hls streaming tests/encryption/test3/ssl.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".reporter",
+			"/js",
+			"'build.js'",
+			"save-dev",
+			"f",
+			"files"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/scripts",
+			"'js'",
+			"m",
+			"media"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 206.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/scripts/foo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/scripts/Swipe.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/scaffold/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1308,
+								1308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/styles/swipe.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/styles/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "swipe.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
